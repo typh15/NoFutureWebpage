@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOy84QDeuWc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\typh1\\OneDrive\\Desktop\\NoFutureStudio\\NoFutureWebpage\\NoFutureWebpage.Api\\NoFutureWebpage.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\typh1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
+    "C:\\Users\\typh1\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
